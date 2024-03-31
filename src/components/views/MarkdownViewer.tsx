@@ -31,8 +31,9 @@ export const MarkdownViewer = ({
 					PreTag="div"
 					showLineNumbers={lineNumbers}
 					language={match[1]}
-					children={String(children).replace(/\n$/, "")}
-				/>
+				>
+					{String(children).replace(/\n$/, "")}
+				</SyntaxHighlighter>
 			) : (
 				<code {...rest} className={className}>
 					{children}
@@ -54,9 +55,10 @@ export const MarkdownViewer = ({
 		<ReactMarkdown
 			className={`markdown-container ${lineNumbers ? "" : "zero-padding"}`}
 			rehypePlugins={[rehypeRaw]}
-			children={content}
 			remarkPlugins={[gfm]}
 			components={components}
-		/>
+		>
+			{content}
+		</ReactMarkdown>
 	);
 };
