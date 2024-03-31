@@ -1,0 +1,82 @@
+.container {
+	z-index: 0;
+	height: calc(100vh - 64px);
+	width: 100vw;
+	display: flex;
+	font-family: "Roboto";
+}
+
+.open-button {
+	width: "22px" !important;
+}
+
+.container > .textarea-container,
+.container > .markdown-container {
+	width: 100%;
+}
+
+.markdown-container {
+	max-height: 100%;
+	z-index: 0;
+	padding: 20px;
+	overflow: scroll;
+	font-family: "Roboto";
+}
+
+.zero-padding {
+	padding: 0;
+}
+
+.textarea-container {
+	display: flex;
+	flex-direction: column;
+	border: none;
+	border-left: 1px solid rgb(216, 216, 216);
+}
+
+.textarea-container > textarea {
+	max-height: 100%;
+	z-index: 0;
+	flex: 1;
+	border: none;
+	resize: none;
+}
+
+.textarea-container > textarea:focus {
+	outline: none;
+}
+
+.text-area {
+	padding: 20px 20px 0;
+}
+
+img {
+	max-width: 100%;
+}
+
+pre {
+	border-radius: 4px;
+	max-height: 600px;
+}
+
+blockquote {
+	background: #ececec;
+	border-left: 6px solid #ccc;
+	margin: 1.5em 10px;
+	padding: 0.5em 10px;
+	quotes: "\201C""\201D""\2018""\2019";
+	border-radius: 0 4px 4px 0;
+}
+
+blockquote:before {
+	color: #ccc;
+	content: open-quote;
+	font-size: 4em;
+	line-height: 0.1em;
+	margin-right: 0.25em;
+	vertical-align: -0.4em;
+}
+
+blockquote p {
+	display: inline;
+}

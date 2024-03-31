@@ -1,27 +1,38 @@
 {
-  "name": "markdown",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
-  },
-  "dependencies": {
-    "react": "^18",
-    "react-dom": "^18",
-    "next": "14.1.3"
-  },
-  "devDependencies": {
-    "typescript": "^5",
-    "@types/node": "^20",
-    "@types/react": "^18",
-    "@types/react-dom": "^18",
-    "autoprefixer": "^10.0.1",
-    "postcss": "^8",
-    "tailwindcss": "^3.3.0",
-    "eslint": "^8",
-    "eslint-config-next": "14.1.3"
-  }
+	"name": "markdown",
+	"version": "0.1.0",
+	"private": true,
+	"scripts": {
+		"dev": "next dev",
+		"build": "next build",
+		"start": "next start"
+	},
+	"dependencies": {
+		"@emotion/react": "^11.11.4",
+		"@emotion/styled": "^11.11.0",
+		"@headlessui/react": "^1.7.18",
+		"@heroicons/react": "^2.1.1",
+		"@mui/icons-material": "^5.15.14",
+		"@mui/material": "^5.15.14",
+		"localbase": "^0.7.5",
+		"next": "14.1.3",
+		"react": "^18",
+		"react-dom": "^18",
+		"react-dropzone": "^14.2.3",
+		"react-markdown": "^9.0.1",
+		"react-syntax-highlighter": "^15.5.0",
+		"rehype-raw": "^7.0.0",
+		"remark-gfm": "^4.0.0",
+		"uuid": "^9.0.1"
+	},
+	"devDependencies": {
+		"@types/node": "^20",
+		"@types/react": "^18",
+		"@types/react-dom": "^18",
+		"@types/react-syntax-highlighter": "^15.5.11",
+		"@types/uuid": "^9.0.8",
+		"eslint": "^8",
+		"eslint-config-next": "14.1.3",
+		"typescript": "^5"
+	}
 }
