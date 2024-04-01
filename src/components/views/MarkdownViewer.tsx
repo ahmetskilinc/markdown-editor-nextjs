@@ -2,17 +2,8 @@ import React from "react";
 import gfm from "remark-gfm";
 import ReactMarkdown, { Components } from "react-markdown";
 import { Prism as SyntaxHighlighter } from "react-syntax-highlighter";
-import { materialDark } from "react-syntax-highlighter/dist/esm/styles/prism";
+import { materialLight } from "react-syntax-highlighter/dist/esm/styles/prism";
 import rehypeRaw from "rehype-raw";
-import {
-	TableContainer,
-	Table,
-	TableHead,
-	Paper,
-	TableRow,
-	TableCell,
-	TableBody,
-} from "@mui/material";
 
 export const MarkdownViewer = ({
 	content,
@@ -27,12 +18,16 @@ export const MarkdownViewer = ({
 			const match = /language-(\w+)/.exec(className || "");
 			return match ? (
 				<SyntaxHighlighter
-					style={materialDark}
-					PreTag="div"
+					style={materialLight}
 					showLineNumbers={lineNumbers}
 					language={match[1]}
+					codeTagProps={
+						{
+							// className: "not-prose",
+						}
+					}
 				>
-					{String(children).replace(/\n$/, "")}
+					{children ? String(children).replace(/\n$/, "") : ""}
 				</SyntaxHighlighter>
 			) : (
 				<code {...rest} className={className}>
@@ -40,20 +35,23 @@ export const MarkdownViewer = ({
 				</code>
 			);
 		},
-		th: ({ children }) => <TableCell>{children}</TableCell>,
-		tr: ({ children }) => <TableRow>{children}</TableRow>,
-		thead: ({ children }) => <TableHead>{children}</TableHead>,
-		tbody: ({ children }) => <TableBody>{children}</TableBody>,
+		th: ({ children }) => (
+			<th
+				scope="col"
+				className="py-3.5 pl-4 pr-3 text-left text-sm font-semibold text-gray-900 sm:pl-0"
+			>
+				{children}
+			</th>
+		),
+		tbody: ({ children }) => <tbody className="divide-y divide-gray-200">{children}</tbody>,
 		table: ({ children }) => (
-			<TableContainer component={Paper}>
-				<Table>{children}</Table>
-			</TableContainer>
+			<table className="min-w-full divide-y divide-gray-300">{children}</table>
 		),
 	};
 
 	return (
 		<ReactMarkdown
-			className={`markdown-container ${lineNumbers ? "" : "zero-padding"}`}
+			className={`h-full overflow-scroll m-0 p-6 prose max-w-full prose-pre:bg-transparent prose-pre:not-prose prose-pre:p-0`}
 			rehypePlugins={[rehypeRaw]}
 			remarkPlugins={[gfm]}
 			components={components}

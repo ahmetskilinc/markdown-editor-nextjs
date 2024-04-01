@@ -1,17 +1,10 @@
 "use client";
 
-import { Typography } from "@mui/material";
 import React, { useEffect, useState } from "react";
 import Dropzone from "./Dropzone";
-import Link from "next/link";
 import { getSheetsFromDb } from "@/utils/db";
-
-type Sheet = {
-	id: string;
-	dateAdded: string;
-	file: ArrayBuffer;
-	name: string;
-};
+import { Sheets } from "./Sheets";
+import { Sheet } from "./Sheet";
 
 export const ListOfSheets = () => {
 	const [sheets, setSheets] = useState<Sheet[] | null>(null);
@@ -25,35 +18,24 @@ export const ListOfSheets = () => {
 	}, []);
 
 	return (
-		<div style={{ width: "80%", margin: "0 auto" }}>
+		<div>
 			<Dropzone />
 			<div>
-				<Typography variant="h6">Your sheets</Typography>
+				<p className="mb-2">Your locally saved sheets</p>
 			</div>
 			<div>
 				{loaded ? (
 					sheets &&
 					(sheets.length > 0 ? (
-						sheets.map((sheet) => {
-							return (
-								<React.Fragment key={sheet.id}>
-									<Link href={`/editor/${sheet.id}`}>
-										<Typography>
-											{sheet.name || sheet.id} -{" "}
-											{sheet.dateAdded || "No date"}
-										</Typography>
-									</Link>
-								</React.Fragment>
-							);
-						})
+						<Sheets sheets={sheets} />
 					) : (
 						<div>
-							<Typography>No sheets</Typography>
+							<p>No sheets</p>
 						</div>
 					))
 				) : (
 					<div>
-						<Typography>Loading...</Typography>
+						<p>Loading...</p>
 					</div>
 				)}
 			</div>

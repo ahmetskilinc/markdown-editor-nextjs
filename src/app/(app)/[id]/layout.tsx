@@ -10,8 +10,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
 	return (
 		<html lang="en">
 			<body>
-				<EditorNavbar />
-				{children}
+				<main>
+					<EditorNavbar />
+					{children}
+				</main>
 			</body>
 		</html>
 	);

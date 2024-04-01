@@ -1,4 +1,4 @@
-import { Typography } from "@mui/material";
+import { saveLoadedFileToDb } from "@/utils/db";
 import React, { useMemo } from "react";
 import { useDropzone } from "react-dropzone";
 
@@ -7,7 +7,7 @@ const baseStyle: React.CSSProperties = {
 	display: "flex",
 	flexDirection: "column",
 	alignItems: "center",
-	padding: "64px",
+	padding: "120px",
 	margin: "20px 0 20px 0",
 	borderWidth: 2,
 	borderRadius: 2,
@@ -33,8 +33,23 @@ const rejectStyle: React.CSSProperties = {
 };
 
 const Dropzone = () => {
+	const openMdFileFromPc = (file: File) => {
+		const filename = file.name;
+		let reader = new FileReader();
+		reader.readAsText(file);
+		reader.onload = () => {
+			const file = reader.result;
+			saveLoadedFileToDb(file, filename).then((id) => {
+				window.location.href = `${id}`;
+			});
+		};
+	};
+
 	const { getRootProps, getInputProps, isFocused, isDragAccept, isDragReject } = useDropzone({
 		accept: { "text/markdown": [] },
+		onDrop(acceptedFiles, fileRejections, event) {
+			openMdFileFromPc(acceptedFiles[0]);
+		},
 	});
 
 	const style = useMemo(
@@ -51,9 +66,9 @@ const Dropzone = () => {
 		<section className="container">
 			<div {...getRootProps({ style })}>
 				<input {...getInputProps()} />
-				<Typography style={{ pointerEvents: "none" }}>
+				<p style={{ pointerEvents: "none" }}>
 					Drag &apos;n&apos; drop some files here, or click to select files
-				</Typography>
+				</p>
 			</div>
 		</section>
 	);

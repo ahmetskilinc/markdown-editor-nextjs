@@ -25,7 +25,7 @@ export const saveLoadedFileToDb = async (file, name) => {
 	const date = new Date();
 	const newFile = {
 		id: id,
-		dateAdded: date.toDateString(),
+		dateAdded: date,
 		file: file,
 		name: name,
 	};

@@ -1,3 +1,4 @@
+import { Hero } from "@/components";
 import "../../styles/globals.css";
 import { HomeNavbar } from "@/components/HomeNavbar";
 
@@ -11,6 +12,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
 		<html lang="en">
 			<body>
 				<HomeNavbar />
+				<Hero />
 				{children}
 			</body>
 		</html>
