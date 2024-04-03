@@ -206,17 +206,24 @@ export default function Header({ user, wide = false }: { user?: any | null; wide
 							{/* Current: "bg-indigo-50 border-indigo-500 text-indigo-700", Default: "border-transparent text-gray-500 hover:bg-gray-50 hover:border-gray-300 hover:text-gray-700" */}
 							<Disclosure.Button
 								as={Link}
-								href="/find-a-job"
-								className="block border-l-4 border-transparent py-2 pl-3 pr-4 text-base font-medium text-gray-500 hover:border-gray-300 hover:bg-gray-50 hover:text-gray-700"
+								href="/about"
+								className="block border-l-4 border-transparent py-2 pl-3 pr-4 text-base font-medium text-white hover:text-gray-100"
 							>
-								Find a job
+								About
 							</Disclosure.Button>
 							<Disclosure.Button
 								as={Link}
-								href="/post-a-job"
-								className="block border-l-4 border-transparent py-2 pl-3 pr-4 text-base font-medium text-gray-500 hover:border-gray-300 hover:bg-gray-50 hover:text-gray-700"
+								href="/pricing"
+								className="block border-l-4 border-transparent py-2 pl-3 pr-4 text-base font-medium text-white hover:text-gray-100"
 							>
-								Post a job
+								Pricing
+							</Disclosure.Button>
+							<Disclosure.Button
+								as={Link}
+								href="/contact-us"
+								className="block border-l-4 border-transparent py-2 pl-3 pr-4 text-base font-medium text-white hover:text-gray-100"
+							>
+								Contact us
 							</Disclosure.Button>
 						</div>
 					</Disclosure.Panel>
