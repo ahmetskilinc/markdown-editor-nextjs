@@ -14,14 +14,9 @@ export default async function RootLayout({ children }: { children: React.ReactNo
 	} = await supabase.auth.getSession();
 
 	return (
-		<html lang="en">
-			<head />
-			<body>
-				<AuthProvider accessToken={session?.access_token}>
-					<PlainHeader />
-					<main className="pt-16">{children}</main>
-				</AuthProvider>
-			</body>
-		</html>
+		<>
+			<PlainHeader />
+			<main className="pt-16">{children}</main>
+		</>
 	);
 }

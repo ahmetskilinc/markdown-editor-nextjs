@@ -7,8 +7,9 @@ import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { Fragment, useEffect, useState } from "react";
 import HeaderDesktopLink from "./HeaderDesktopLink";
+import classNames from "classnames";
 
-export default function Header({ user }: { user?: any | null }) {
+export default function Header({ user, wide = false }: { user?: any | null; wide?: boolean }) {
 	const [userAvatarUrl, setUserAvatarUrl] = useState<string | null>("");
 	const supabase = createClientComponentClient();
 	const router = useRouter();
@@ -59,7 +60,12 @@ export default function Header({ user }: { user?: any | null }) {
 		<Disclosure as="nav" className="bg-indigo-600 shadow w-full z-40">
 			{({ open }) => (
 				<>
-					<div className="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
+					<div
+						className={classNames(
+							"mx-auto px-2 sm:px-6 lg:px-8",
+							wide ? "max-w-none" : " max-w-7xl "
+						)}
+					>
 						<div className="relative flex h-16 justify-between">
 							<div className="absolute inset-y-0 left-0 flex items-center sm:hidden">
 								{/* Mobile menu button */}
@@ -93,10 +99,13 @@ export default function Header({ user }: { user?: any | null }) {
 										<img className="h-6 w-auto" src="/logo.png" />
 									</Link>
 								</div>
-								<div className="hidden sm:ml-6 sm:flex sm:space-x-8">
-									<HeaderDesktopLink title="Find a job" link="/find-a-job" />
-									<HeaderDesktopLink title="Post a job" link="/post-a-job" />
-								</div>
+								{!user ? (
+									<div className="hidden sm:ml-6 sm:flex sm:space-x-8">
+										<HeaderDesktopLink title="About" link="/about" />
+										<HeaderDesktopLink title="Pricing" link="/pricing" />
+										<HeaderDesktopLink title="Contact us" link="/contact-us" />
+									</div>
+								) : null}
 							</div>
 							<div className="absolute inset-y-0 right-0 flex gap-4 items-center pr-2 sm:static sm:inset-auto sm:ml-6 sm:pr-0">
 								{user ? (
@@ -120,13 +129,13 @@ export default function Header({ user }: { user?: any | null }) {
 												)}
 												<span className="hidden sm:flex lg:items-center">
 													<span
-														className="ml-4 text-sm leading-6 text-gray-900"
+														className="ml-4 text-sm leading-6 text-white"
 														aria-hidden="true"
 													>
 														{user.first_name} {user.last_name}
 													</span>
 													<ChevronDownIcon
-														className="ml-2 h-5 w-5 text-gray-400"
+														className="ml-2 h-5 w-5 text-gray-100"
 														aria-hidden="true"
 													/>
 												</span>

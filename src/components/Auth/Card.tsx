@@ -4,9 +4,14 @@ import { useState } from "react";
 import Login from "./Login";
 import SignUp from "./SignUp";
 import classNames from "classnames";
+import { useSearchParams } from "next/navigation";
 
 const Card = () => {
-	const [tab, setTab] = useState<"login" | "signup">("login");
+	const searchParams = useSearchParams();
+
+	const tabFromUrl = searchParams.get("tab") as "login" | "signup" | null;
+
+	const [tab, setTab] = useState<"login" | "signup">(tabFromUrl || "login");
 	const tabs = [
 		{ name: "Login", current: tab === "login" },
 		{ name: "Sign up", current: tab === "signup" },
