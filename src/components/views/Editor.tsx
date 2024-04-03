@@ -2,7 +2,7 @@
 
 import React, { useState, useRef, useEffect } from "react";
 import { getSheetFromDb } from "../../utils/db";
-import { Toolbar } from "../";
+import { Toolbar } from "..";
 
 export const Editor = ({
 	setMarkdown,
@@ -73,7 +73,7 @@ export const Editor = ({
 		<div className="h-full m-0 p-0">
 			<textarea
 				ref={textArea}
-				className="p-6 m-0 h-full w-full outline-none"
+				className="p-6 m-0 h-full w-full outline-none border-none ring-none shadow-none focus:outline-none focus:border-none focus:ring-none focus:shadow-none"
 				placeholder="Start here..."
 				onChange={(e) => setMarkdown(e.target.value)}
 				value={markdown}

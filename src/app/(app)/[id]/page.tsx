@@ -1,7 +1,7 @@
 "use client";
 
-import { Editor } from "@/components/views/Editor";
-import { MarkdownViewer } from "@/components/views/MarkdownViewer";
+import { Editor } from "@/components/Views/Editor";
+import { MarkdownViewer } from "@/components/Views/MarkdownViewer";
 import React, { useState } from "react";
 import "./styles.css";
 import { Toolbar } from "@/components";

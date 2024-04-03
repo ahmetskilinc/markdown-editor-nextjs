@@ -1,5 +1,5 @@
+import Header from "@/components/Common/Header";
 import "../../../styles/globals.css";
-import { EditorNavbar } from "@/components/EditorNavbar";
 
 export const metadata = {
 	title: "Next.js",
@@ -11,7 +11,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
 		<html lang="en">
 			<body>
 				<main>
-					<EditorNavbar />
+					<Header />
 					{children}
 				</main>
 			</body>

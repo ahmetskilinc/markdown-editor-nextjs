@@ -1,6 +1,6 @@
 import { Hero } from "@/components";
 import "../../styles/globals.css";
-import { HomeNavbar } from "@/components/HomeNavbar";
+import Header from "@/components/Common/Header";
 
 export const metadata = {
 	title: "Next.js",
@@ -11,7 +11,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
 	return (
 		<html lang="en">
 			<body>
-				<HomeNavbar />
+				<Header />
 				<Hero />
 				{children}
 			</body>

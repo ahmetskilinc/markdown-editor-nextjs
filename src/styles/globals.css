@@ -3,7 +3,4 @@
 @tailwind utilities;
 
 @layer components {
-	pre {
-		@apply: w-full;
-	}
 }
