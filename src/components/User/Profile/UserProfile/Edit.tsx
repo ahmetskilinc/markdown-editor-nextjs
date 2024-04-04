@@ -1,6 +1,6 @@
 "use client";
 
-import classNames from "classnames";
+import { cn } from "../../../../app/utils/cn";
 import { Field, Form, Formik } from "formik";
 import { useState } from "react";
 import { MoonLoader } from "react-spinners";
@@ -96,7 +96,7 @@ const Edit = ({ user }: Props) => {
 								</label>
 								<div className="mt-2">
 									<Field
-										className={classNames(
+										className={cn(
 											"block w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6",
 											errors.first_name && touched.first_name && "bg-red-50"
 										)}
@@ -117,7 +117,7 @@ const Edit = ({ user }: Props) => {
 								</label>
 								<div className="mt-2">
 									<Field
-										className={classNames(
+										className={cn(
 											"block w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6",
 											errors.last_name && touched.last_name && "bg-red-50"
 										)}
@@ -138,7 +138,7 @@ const Edit = ({ user }: Props) => {
 								</label>
 								<div className="mt-2">
 									<Field
-										className={classNames(
+										className={cn(
 											"block w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6",
 											errors.username && touched.username && "bg-red-50"
 										)}
@@ -159,7 +159,7 @@ const Edit = ({ user }: Props) => {
 								</label>
 								<div className="mt-2 md:mt-0  w-full">
 									<Field
-										className={classNames(
+										className={cn(
 											"block w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6",
 											errors.dob && touched.dob && "bg-red-50"
 										)}

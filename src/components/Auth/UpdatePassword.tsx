@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import cn from "classnames";
+import { cn } from "../../app/utils/cn";
 import { Field, Form, Formik } from "formik";
 import { useRouter } from "next/navigation";
 import * as Yup from "yup";

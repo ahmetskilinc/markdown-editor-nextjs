@@ -1,12 +1,10 @@
 "use client";
 
 import { useState } from "react";
-import cn from "classnames";
+import { cn } from "../../app/utils/cn";
 import { Field, Form, Formik } from "formik";
-import Link from "next/link";
 import * as Yup from "yup";
 import ErrorText from "../Common/ErrorText";
-import { FacebookLoginButton } from "react-social-login-buttons";
 import { createClient } from "@/app/utils/client";
 
 const SignUpSchema = Yup.object().shape({

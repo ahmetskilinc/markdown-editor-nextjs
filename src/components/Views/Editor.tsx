@@ -1,8 +1,6 @@
 "use client";
 
 import React, { useState, useRef, useEffect } from "react";
-import { getSheetFromDb } from "../../app/utils/db";
-import { Toolbar } from "../Toolbar";
 import { createClient } from "@/app/utils/client";
 
 export const Editor = ({

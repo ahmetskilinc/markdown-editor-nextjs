@@ -1,4 +1,4 @@
-import classNames from "classnames";
+import { cn } from "../../app/utils/cn";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 
@@ -7,7 +7,7 @@ const HeaderDesktopLink = ({ title, link }: { title: string; link: string }) => 
 	return (
 		<Link
 			href={link}
-			className={classNames(
+			className={cn(
 				"inline-flex items-center border-b-2 px-1 pt-1 text-sm font-medium text-white",
 				pathname === link
 					? "border-indigo-500"

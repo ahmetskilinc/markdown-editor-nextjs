@@ -2,7 +2,7 @@
 
 import React, { useState } from "react";
 import UserProfile from "./UserProfile";
-import classNames from "classnames";
+import { cn } from "../../../app/utils/cn";
 import { UserProfile as UserProfileType } from "@/types/UserProfile";
 
 type Props = {
@@ -87,7 +87,7 @@ const Tabs = ({
 									)
 								}
 								key={tab.name}
-								className={classNames(
+								className={cn(
 									tab.current
 										? "bg-gray-200"
 										: "border-transparent text-gray-500 hover:bg-gray-300 hover:text-gray-700",

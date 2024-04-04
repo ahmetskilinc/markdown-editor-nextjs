@@ -3,7 +3,7 @@
 import { useState } from "react";
 import Login from "./Login";
 import SignUp from "./SignUp";
-import classNames from "classnames";
+import { cn } from "../../app/utils/cn";
 import { useSearchParams } from "next/navigation";
 
 const Card = () => {
@@ -34,7 +34,7 @@ const Card = () => {
 											| "signup"
 									)
 								}
-								className={classNames(
+								className={cn(
 									tab.current
 										? "text-gray-900"
 										: "text-gray-500 hover:text-gray-700 border-b border-gray-200",
@@ -47,7 +47,7 @@ const Card = () => {
 								<span>{tab.name}</span>
 								<span
 									aria-hidden="true"
-									className={classNames(
+									className={cn(
 										tab.current ? "bg-indigo-500" : "bg-transparent",
 										"absolute inset-x-0 bottom-0 h-px"
 									)}

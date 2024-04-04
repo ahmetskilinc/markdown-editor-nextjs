@@ -1,5 +1,5 @@
 import { PaperClipIcon, CheckIcon, XMarkIcon } from "@heroicons/react/20/solid";
-import classNames from "classnames";
+import { cn } from "../../app/utils/cn";
 import { FormikErrors, FormikTouched, FormikValues } from "formik";
 import { Accept, DropEvent, useDropzone } from "react-dropzone";
 import ErrorText from "./ErrorText";
@@ -45,7 +45,7 @@ export const Dropzone = ({
 		maxFiles: 1,
 	});
 
-	const iconClasses = classNames(
+	const iconClasses = cn(
 		"h-5 w-5 flex-shrink-0",
 		isDragActive ? (isDragReject ? "text-red-700" : "text-green-700") : "text-gray-400"
 	);
@@ -66,7 +66,7 @@ export const Dropzone = ({
 			<div {...getRootProps({ className: "dropzone" })}>
 				<ul
 					role="list"
-					className={classNames(
+					className={cn(
 						"rounded-md border border-gray-300 transition-all cursor-pointer",
 						!values[name].length ? "border-dashed" : "shadow-sm",
 						isDragActive
@@ -83,7 +83,7 @@ export const Dropzone = ({
 								<Icon />
 								<div className="ml-4 flex min-w-0 flex-1 gap-2">
 									<span
-										className={classNames(
+										className={cn(
 											"truncate font-medium",
 											isDragActive
 												? isDragReject

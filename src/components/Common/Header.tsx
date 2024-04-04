@@ -6,7 +6,7 @@ import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { Fragment, useEffect, useState } from "react";
 import HeaderDesktopLink from "./HeaderDesktopLink";
-import classNames from "classnames";
+import { cn } from "../../app/utils/cn";
 import { createClient } from "@/app/utils/client";
 
 export default function Header({ user, wide = false }: { user?: any | null; wide?: boolean }) {
@@ -60,7 +60,7 @@ export default function Header({ user, wide = false }: { user?: any | null; wide
 			{({ open }) => (
 				<>
 					<div
-						className={classNames(
+						className={cn(
 							"mx-auto px-2 sm:px-6 lg:px-8",
 							wide ? "max-w-none" : " max-w-7xl "
 						)}
