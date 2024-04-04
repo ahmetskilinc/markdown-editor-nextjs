@@ -15,7 +15,7 @@ export const getSheetFromDb = async (id) => {
 		const sheet = await db.collection("files").doc({ id: id }).get();
 		return sheet;
 	} catch (error) {
-		console.log(error);
+		console.error(error);
 	}
 };
 

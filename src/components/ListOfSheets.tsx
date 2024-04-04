@@ -31,7 +31,6 @@ export const ListOfSheets = () => {
 				.match({ user_id: user?.user?.id });
 
 			setSheets(data.data);
-			console.log(data.data);
 		}
 
 		getSheets();

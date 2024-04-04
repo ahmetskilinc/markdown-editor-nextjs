@@ -47,7 +47,6 @@ const Edit = ({ user }: Props) => {
 
 			avatar_id = data?.path!;
 		} else {
-			console.log("no avatar");
 		}
 
 		const { error: profileUpdateError } = await supabase

@@ -30,7 +30,6 @@ const Login = () => {
 					}}
 					validationSchema={SignInSchema}
 					onSubmit={async (formData) => {
-						console.log("on client");
 						await signIn(formData);
 					}}
 				>

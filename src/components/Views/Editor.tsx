@@ -21,8 +21,6 @@ export const Editor = ({
 		async function getSheets() {
 			const data = await supabase.from("sheets").select("*").eq("id", id);
 
-			console.log(data.data?.[0]);
-
 			setMarkdown(data?.data?.[0].content);
 		}
 
