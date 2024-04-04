@@ -1,44 +1,41 @@
 "use client";
 
-import { getSheetsFromDb, saveLoadedFileToDb } from "@/utils/db";
 import { Form, Formik } from "formik";
-import { useEffect, useState } from "react";
 import * as Yup from "yup";
 import { Dropzone } from "./Common/Dropzone";
 import ErrorText from "./Common/ErrorText";
 import { Sheet } from "./Sheet";
 import { Sheets } from "./Sheets";
+import { createClient } from "@/app/utils/client";
+import { useEffect, useState } from "react";
 
 const UploadDocumentSchema = Yup.object().shape({
 	document: Yup.mixed().nullable(),
 });
 
 export const ListOfSheets = () => {
+	const supabase = createClient();
+	const [errorMsg, setErrorMsg] = useState<string | null>(null);
 	const [sheets, setSheets] = useState<Sheet[] | null>(null);
-	const [loaded, setLoaded] = useState(false);
+
+	async function handleSubmit(formData: { document: File[] }) {
+		console.log(formData);
+	}
 
 	useEffect(() => {
-		getSheetsFromDb().then((sheets) => {
-			setSheets(sheets);
-			setLoaded(true);
-		});
+		async function getSheets() {
+			const user = await supabase.auth.getUser().then(({ data }) => data);
+			const data = await supabase
+				.from("sheets")
+				.select("*")
+				.match({ user_id: user?.user?.id });
+
+			setSheets(data.data);
+			console.log(data.data);
+		}
+
+		getSheets();
 	}, []);
-
-	const handleSubmit = (formData: { document: File[] }) => {
-		openMdFileFromPc(formData.document[0]);
-	};
-
-	const openMdFileFromPc = (file: File) => {
-		const filename = file.name;
-		let reader = new FileReader();
-		reader.readAsText(file);
-		reader.onload = () => {
-			const file = reader.result;
-			saveLoadedFileToDb(file, filename).then((id) => {
-				window.location.href = `${id}`;
-			});
-		};
-	};
 
 	return (
 		<div>
@@ -85,18 +82,11 @@ export const ListOfSheets = () => {
 				<p className="mt-4 mb-2">Your locally saved sheets</p>
 			</div>
 			<div>
-				{loaded ? (
-					sheets &&
-					(sheets.length > 0 ? (
-						<Sheets sheets={sheets} />
-					) : (
-						<div>
-							<p>No sheets</p>
-						</div>
-					))
+				{sheets && sheets.length > 0 ? (
+					<Sheets sheets={sheets} />
 				) : (
 					<div>
-						<p>Loading...</p>
+						<p>No sheets</p>
 					</div>
 				)}
 			</div>

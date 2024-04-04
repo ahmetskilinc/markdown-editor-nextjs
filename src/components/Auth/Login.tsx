@@ -1,12 +1,13 @@
 "use client";
 
 import { useState } from "react";
-import { createClientComponentClient } from "@supabase/auth-helpers-nextjs";
 import cn from "classnames";
 import { Field, Form, Formik } from "formik";
 import Link from "next/link";
 import * as Yup from "yup";
 import ErrorText from "../Common/ErrorText";
+import { createClient } from "@/app/utils/client";
+import { signIn } from "@/app/functions/signIn";
 
 const SignInSchema = Yup.object().shape({
 	email: Yup.string().email("Invalid email").required("Email is required"),
@@ -14,19 +15,8 @@ const SignInSchema = Yup.object().shape({
 });
 
 const Login = () => {
-	const supabase = createClientComponentClient();
+	const supabase = createClient();
 	const [errorMsg, setErrorMsg] = useState<string | null>(null);
-
-	async function signIn(formData: { email: string; password: string }) {
-		const { error } = await supabase.auth.signInWithPassword({
-			email: formData.email,
-			password: formData.password,
-		});
-
-		if (error) {
-			setErrorMsg(error.message);
-		}
-	}
 
 	return (
 		<div className="space-y-12 p-6 w-full">
@@ -39,7 +29,10 @@ const Login = () => {
 						password: "",
 					}}
 					validationSchema={SignInSchema}
-					onSubmit={signIn}
+					onSubmit={async (formData) => {
+						console.log("on client");
+						await signIn(formData);
+					}}
 				>
 					{({ errors, touched }) => (
 						<Form className="space-y-12">

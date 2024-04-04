@@ -1,19 +1,19 @@
 "use client";
 
 import { useState } from "react";
-import { createClientComponentClient } from "@supabase/auth-helpers-nextjs";
 import cn from "classnames";
 import { Field, Form, Formik } from "formik";
 import { useRouter } from "next/navigation";
 import * as Yup from "yup";
 import ErrorText from "../Common/ErrorText";
+import { createClient } from "@/app/utils/client";
 
 const UpdatePasswordSchema = Yup.object().shape({
 	password: Yup.string().required("Enter a password to change it"),
 });
 
 const UpdatePassword = () => {
-	const supabase = createClientComponentClient();
+	const supabase = createClient();
 	const router = useRouter();
 	const [errorMsg, setErrorMsg] = useState<string | null>(null);
 

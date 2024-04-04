@@ -3,6 +3,7 @@ import classNames from "classnames";
 import { FormikErrors, FormikTouched, FormikValues } from "formik";
 import { Accept, DropEvent, useDropzone } from "react-dropzone";
 import ErrorText from "./ErrorText";
+import React from "react";
 
 export const Dropzone = ({
 	setFieldValue,
@@ -77,7 +78,7 @@ export const Dropzone = ({
 				>
 					<input {...getInputProps()} />
 					{!values[name].length ? (
-						<li className="flex items-center justify-between py-4 pl-4 pr-5 text-sm leading-6">
+						<li className="flex items-center justify-between py-10 sm:py-4 pl-4 pr-5 text-sm leading-6">
 							<div className="flex w-0 flex-1 items-center">
 								<Icon />
 								<div className="ml-4 flex min-w-0 flex-1 gap-2">
@@ -91,11 +92,22 @@ export const Dropzone = ({
 												: "text-gray-400"
 										)}
 									>
-										{isDragActive
-											? isDragReject
-												? "File type is not accepted"
-												: "Drop file here"
-											: "Drag a file here or click to select one"}
+										{isDragActive ? (
+											isDragReject ? (
+												"File type is not accepted"
+											) : (
+												"Drop file here"
+											)
+										) : (
+											<React.Fragment>
+												<span className="hidden sm:block">
+													Drag a file here or click to select one
+												</span>
+												<span className="block sm:hidden">
+													Tap to select a file
+												</span>
+											</React.Fragment>
+										)}
 									</span>
 								</div>
 							</div>

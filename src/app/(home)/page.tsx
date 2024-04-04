@@ -1,19 +1,19 @@
-import { Hero, ListOfSheets } from "@/components";
+import { ListOfSheets } from "@/components/ListOfSheets";
+import { Hero } from "@/components/Hero";
 import React from "react";
-import { cookies } from "next/headers";
-import { createServerComponentClient } from "@supabase/auth-helpers-nextjs";
+import { createClient } from "@/app/utils/server";
 
 type Props = {};
 
 const Page = async (props: Props) => {
-	const supabase = createServerComponentClient({ cookies });
+	const supabase = createClient();
 
 	const {
 		data: { user },
 	} = await supabase.auth.getUser();
 
 	return (
-		<main>
+		<main className="pt-16">
 			{user ? (
 				<div className=" mx-auto max-w-7xl p-6 lg:px-8">
 					<ListOfSheets />

@@ -1,14 +1,13 @@
-import { createServerComponentClient } from "@supabase/auth-helpers-nextjs";
-import { cookies } from "next/headers";
 import { redirect } from "next/navigation";
 
 import ResetPassword from "../../../components/Auth/ResetPassword";
+import { createClient } from "@/app/utils/server";
 
 export default async function ResetPasswordPage() {
-	const supabase = createServerComponentClient({ cookies });
-	const { data } = await supabase.auth.getSession();
+	const supabase = createClient();
+	const { data } = await supabase.auth.getUser();
 
-	if (data?.session) {
+	if (data?.user) {
 		redirect("/");
 	}
 

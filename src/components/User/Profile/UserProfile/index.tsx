@@ -1,11 +1,11 @@
 "use client";
 
-import { createClientComponentClient } from "@supabase/auth-helpers-nextjs";
 import { useRouter } from "next/navigation";
 import { useEffect, useState } from "react";
 import View from "./View";
 import Edit from "./Edit";
 import type { UserProfile as UserProfileType } from "@/types/UserProfile";
+import { createClient } from "@/app/utils/client";
 
 type Props = {
 	user: UserProfileType;
@@ -14,7 +14,7 @@ type Props = {
 
 const UserProfile = ({ user, edit }: Props) => {
 	const [userAvatarUrl, setUserAvatarUrl] = useState<string | null>("");
-	const supabase = createClientComponentClient();
+	const supabase = createClient();
 	const router = useRouter();
 
 	useEffect(() => {

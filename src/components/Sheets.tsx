@@ -19,7 +19,7 @@ export const Sheets = ({ sheets }: { sheets: Sheet[] }) => {
 			className="grid grid-cols-1 gap-6 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4"
 		>
 			{sheets.map((sheet) => (
-				<SheetCard sheet={sheet} />
+				<SheetCard key={sheet.id} sheet={sheet} />
 			))}
 		</ul>
 	);

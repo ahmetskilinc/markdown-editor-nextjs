@@ -1,8 +1,9 @@
 "use client";
 
 import React, { useState, useRef, useEffect } from "react";
-import { getSheetFromDb } from "../../utils/db";
-import { Toolbar } from "..";
+import { getSheetFromDb } from "../../app/utils/db";
+import { Toolbar } from "../Toolbar";
+import { createClient } from "@/app/utils/client";
 
 export const Editor = ({
 	setMarkdown,
@@ -11,21 +12,21 @@ export const Editor = ({
 	setMarkdown: React.Dispatch<React.SetStateAction<string>>;
 	markdown: string;
 }) => {
+	const supabase = createClient();
 	const [hidden, setHidden] = useState(false);
 	const textArea = useRef<HTMLTextAreaElement>(null);
 
 	useEffect(() => {
 		const id = window.location.pathname.split("/")[1];
-		console.log(id);
-		getSheetFromDb(id)
-			.then((res) => {
-				if (res.file.length > 0) {
-					setMarkdown(res.file);
-				}
-			})
-			.catch((err) => {
-				console.log(err);
-			});
+		async function getSheets() {
+			const data = await supabase.from("sheets").select("*").eq("id", id);
+
+			console.log(data.data?.[0]);
+
+			setMarkdown(data?.data?.[0].content);
+		}
+
+		getSheets();
 	}, []);
 
 	const handleToggleEditor = () => {

@@ -1,6 +1,5 @@
 import Header from "@/components/Common/Header";
-import { cookies } from "next/headers";
-import { createServerComponentClient } from "@supabase/auth-helpers-nextjs";
+import { createClient } from "@/app/utils/server";
 
 export const metadata = {
 	title: "Next.js",
@@ -8,7 +7,7 @@ export const metadata = {
 };
 
 export default async function RootLayout({ children }: { children: React.ReactNode }) {
-	const supabase = createServerComponentClient({ cookies });
+	const supabase = createClient();
 
 	const {
 		data: { user },
@@ -18,10 +17,8 @@ export default async function RootLayout({ children }: { children: React.ReactNo
 
 	return (
 		<>
-			<main>
-				<Header user={data ? data[0] : undefined} wide />
-				{children}
-			</main>
+			<Header user={data ? data[0] : undefined} wide />
+			{children}
 		</>
 	);
 }

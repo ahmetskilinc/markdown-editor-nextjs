@@ -1,18 +1,7 @@
 import "@/styles/globals.css";
-import { createServerComponentClient } from "@supabase/auth-helpers-nextjs";
-import { cookies } from "next/headers";
 import PlainHeader from "../../components/Common/PlainHeader";
-import AuthProvider from "../../providers/AuthProvider";
 
-export const revalidate = 0;
-
-export default async function RootLayout({ children }: { children: React.ReactNode }) {
-	const supabase = createServerComponentClient({ cookies });
-
-	const {
-		data: { session },
-	} = await supabase.auth.getSession();
-
+export default function RootLayout({ children }: { children: React.ReactNode }) {
 	return (
 		<>
 			<PlainHeader />

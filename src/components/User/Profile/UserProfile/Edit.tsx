@@ -1,6 +1,5 @@
 "use client";
 
-import { createClientComponentClient } from "@supabase/auth-helpers-nextjs";
 import classNames from "classnames";
 import { Field, Form, Formik } from "formik";
 import { useState } from "react";
@@ -9,6 +8,7 @@ import * as Yup from "yup";
 import { Dropzone } from "../../../Common/Dropzone";
 import ErrorText from "../../../Common/ErrorText";
 import { UserProfile } from "@/types/UserProfile";
+import { createClient } from "@/app/utils/client";
 
 type Props = {
 	user: UserProfile;
@@ -21,7 +21,7 @@ const EditProfileSchema = Yup.object().shape({
 });
 
 const Edit = ({ user }: Props) => {
-	const supabase = createClientComponentClient();
+	const supabase = createClient();
 	const [errorMsg, setErrorMsg] = useState<string | null>(null);
 	const [successMsg, setSuccessMsg] = useState<string | null>(null);
 

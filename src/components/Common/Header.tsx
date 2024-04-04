@@ -2,16 +2,16 @@
 
 import { Disclosure, Menu, Transition } from "@headlessui/react";
 import { ChevronDownIcon } from "@heroicons/react/24/outline";
-import { createClientComponentClient } from "@supabase/auth-helpers-nextjs";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { Fragment, useEffect, useState } from "react";
 import HeaderDesktopLink from "./HeaderDesktopLink";
 import classNames from "classnames";
+import { createClient } from "@/app/utils/client";
 
 export default function Header({ user, wide = false }: { user?: any | null; wide?: boolean }) {
 	const [userAvatarUrl, setUserAvatarUrl] = useState<string | null>("");
-	const supabase = createClientComponentClient();
+	const supabase = createClient();
 	const router = useRouter();
 
 	useEffect(() => {
@@ -51,13 +51,12 @@ export default function Header({ user, wide = false }: { user?: any | null; wide
 		const { error } = await supabase.auth.signOut();
 
 		if (error) {
-			// eslint-disable-next-line no-console
 			console.error("ERROR:", error);
 		}
 	}
 
 	return (
-		<Disclosure as="nav" className="bg-indigo-600 shadow w-full z-40">
+		<Disclosure as="nav" className="bg-indigo-600 fixed shadow w-full z-40">
 			{({ open }) => (
 				<>
 					<div
@@ -71,23 +70,23 @@ export default function Header({ user, wide = false }: { user?: any | null; wide
 								{/* Mobile menu button */}
 								<Disclosure.Button className="relative inline-flex items-center justify-center rounded-md p-2 text-white">
 									<span className="sr-only">Open main menu</span>
-									<div className="block w-6 -translate-y-[1px]">
+									<div className="block w-[20px] -translate-y-[1px]">
 										<span
 											aria-hidden="true"
-											className={`block absolute h-0.5 w-6 bg-current transform transition-all duration-200 ease-in-out rounded ${
-												open ? " rotate-45" : " -translate-y-2"
+											className={`block absolute h-0.5 w-[20px] bg-current transform transition-all duration-200 ease-in-out rounded ${
+												open ? " rotate-45" : " -translate-y-[6px]"
 											}`}
 										></span>
 										<span
 											aria-hidden="true"
-											className={`block absolute h-0.5 w-6 bg-current transform transition-all duration-200 ease-in-out rounded ${
+											className={`block absolute h-0.5 w-[20px] bg-current transform transition-all duration-200 ease-in-out rounded ${
 												open && " opacity-0"
 											}`}
 										></span>
 										<span
 											aria-hidden="true"
-											className={`block absolute h-0.5 w-6 bg-current transform transition-all duration-200 ease-in-out rounded ${
-												open ? "-rotate-45" : " translate-y-2 translate-y-"
+											className={`block absolute h-0.5 w-[20px] bg-current transform transition-all duration-200 ease-in-out rounded ${
+												open ? "-rotate-45" : " translate-y-[6px]"
 											}`}
 										></span>
 									</div>
@@ -96,7 +95,7 @@ export default function Header({ user, wide = false }: { user?: any | null; wide
 							<div className="flex flex-1 items-center justify-center sm:items-stretch sm:justify-start">
 								<div className="flex flex-shrink-0 items-center font-serif">
 									<Link href="/">
-										<img className="h-6 w-auto" src="/logo.png" />
+										<img className="h-[22px] w-auto" src="/logo.png" />
 									</Link>
 								</div>
 								{!user ? (
