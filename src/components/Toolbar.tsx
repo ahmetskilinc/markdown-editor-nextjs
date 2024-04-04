@@ -2,7 +2,7 @@ import React from "react";
 
 export const Toolbar = () => {
 	return (
-		<div className="p-2 border-b-2 flex gap-2 m-0">
+		<div className="p-2 border-b-2 flex gap-2 m-0 overflow-scroll w-full">
 			<span className="isolate inline-flex rounded-md shadow-sm">
 				<button
 					type="button"
