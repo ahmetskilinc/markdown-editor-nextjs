@@ -6,6 +6,7 @@
 	"display": "standalone",
 	"background_color": "rgb(79,70,229)",
 	"theme_color": "#ffffff",
+	"id": "/",
 	"icons": [
 		{
 			"src": "public/manifest-icon-192.maskable.png",
@@ -42,6 +43,14 @@
 					"sizes": "832x832"
 				}
 			]
+		}
+	],
+	"screenshots": [
+		{
+			"src": "/mobile-screenshot.png",
+			"sizes": "1290 × 2796",
+			"type": "image/png",
+			"label": "Signed in screen of Markdown"
 		}
 	]
 }
