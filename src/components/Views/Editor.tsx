@@ -19,7 +19,7 @@ export const Editor = ({
 		async function getSheets() {
 			const data = await supabase.from("sheets").select("*").eq("id", id);
 
-			setMarkdown(data?.data?.[0].content);
+			setMarkdown(data?.data?.[0].content || "");
 		}
 
 		getSheets();
@@ -73,7 +73,7 @@ export const Editor = ({
 				className="p-6 m-0 h-full w-full outline-none border-none ring-none shadow-none focus:outline-none focus:border-none focus:ring-none focus:shadow-none"
 				placeholder="Start here..."
 				onChange={(e) => setMarkdown(e.target.value)}
-				value={markdown}
+				value={markdown || ""}
 			/>
 		</div>
 	);

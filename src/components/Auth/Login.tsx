@@ -15,7 +15,6 @@ const SignInSchema = Yup.object().shape({
 });
 
 const Login = () => {
-	const supabase = createClient();
 	const [errorMsg, setErrorMsg] = useState<string | null>(null);
 
 	return (

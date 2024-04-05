@@ -1,12 +1,19 @@
 import { createClient } from "@/app/utils/server";
-import { NewSheet, SheetCard } from "@/components/Sheets";
+import { SheetCard } from "@/components/Sheets";
+import { NewSheet } from "./NewSheetButton";
 
 const MySheets = async () => {
 	const supabase = createClient();
 	const {
 		data: { user },
 	} = await supabase.auth.getUser();
-	const { data, error } = await supabase.from("sheets").select("*").match({ user_id: user?.id });
+	const { data, error } = await supabase
+		.from("sheets")
+		.select("*")
+		.match({ user_id: user?.id })
+		.order("created_at", {
+			ascending: true,
+		});
 
 	return data && data.length > 0 ? (
 		<div>

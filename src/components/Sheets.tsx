@@ -1,9 +1,5 @@
-import React from "react";
 import moment from "moment";
-import ReactMarkdown from "react-markdown";
 import Link from "next/link";
-import rehypeRaw from "rehype-raw";
-import gfm from "remark-gfm";
 
 export interface Sheet {
 	id: string;
@@ -22,12 +18,6 @@ export const SheetCard = ({ sheet }: { sheet: Sheet }) => {
 						created at: {moment(sheet.created_at).format("hh:mm DD/MM/YY")}
 						<span className="inline-flex items-center rounded-md w-full max-h-64 overflow-hidden bg-gray-50 px-2 py-1 text-xs font-medium ring-1 ring-inset ring-gray-600/20">
 							<pre>{sheet.content}</pre>
-							{/* <ReactMarkdown
-								className={`h-full overflow-scroll prose prose-sm max-w-full`}
-								rehypePlugins={[rehypeRaw]}
-								remarkPlugins={[gfm]}
-							>
-							</ReactMarkdown> */}
 						</span>
 					</dd>
 				</dl>
@@ -47,14 +37,3 @@ export const SheetCard = ({ sheet }: { sheet: Sheet }) => {
 		</li>
 	);
 };
-
-export const NewSheet = () => (
-	<li className="relative col-span-1 rounded-lg flex items-center justify-center group shadow p-6 overflow-hidden">
-		<Link
-			href={`/new`}
-			className="absolute inset-0 inline-flex items-center justify-center gap-x-3 rounded-br-lg border border-transparent py-4 text-sm sm:text-md font-semibold text-gray-900 bg-white group-hover:bg-gray-100 transition-colors"
-		>
-			New sheet
-		</Link>
-	</li>
-);
