@@ -66,33 +66,40 @@ export default function Header({ user, wide = false }: { user?: any | null; wide
 						)}
 					>
 						<div className="relative flex h-16 justify-between">
-							<div className="absolute inset-y-0 left-0 flex items-center sm:hidden">
-								{/* Mobile menu button */}
-								<Disclosure.Button className="relative inline-flex items-center justify-center rounded-md p-2 text-white">
-									<span className="sr-only">Open main menu</span>
-									<div className="block w-[20px] -translate-y-[1px]">
-										<span
-											aria-hidden="true"
-											className={`block absolute h-0.5 w-[20px] bg-current transform transition-all duration-200 ease-in-out rounded ${
-												open ? " rotate-45" : " -translate-y-[6px]"
-											}`}
-										></span>
-										<span
-											aria-hidden="true"
-											className={`block absolute h-0.5 w-[20px] bg-current transform transition-all duration-200 ease-in-out rounded ${
-												open && " opacity-0"
-											}`}
-										></span>
-										<span
-											aria-hidden="true"
-											className={`block absolute h-0.5 w-[20px] bg-current transform transition-all duration-200 ease-in-out rounded ${
-												open ? "-rotate-45" : " translate-y-[6px]"
-											}`}
-										></span>
-									</div>
-								</Disclosure.Button>
-							</div>
-							<div className="flex flex-1 items-center justify-center sm:items-stretch sm:justify-start">
+							{!user ? (
+								<div className="absolute inset-y-0 left-0 flex items-center sm:hidden">
+									{/* Mobile menu button */}
+									<Disclosure.Button className="relative inline-flex items-center justify-center rounded-md p-2 text-white">
+										<span className="sr-only">Open main menu</span>
+										<div className="block w-[20px] -translate-y-[1px]">
+											<span
+												aria-hidden="true"
+												className={`block absolute h-0.5 w-[20px] bg-current transform transition-all duration-200 ease-in-out rounded ${
+													open ? " rotate-45" : " -translate-y-[6px]"
+												}`}
+											></span>
+											<span
+												aria-hidden="true"
+												className={`block absolute h-0.5 w-[20px] bg-current transform transition-all duration-200 ease-in-out rounded ${
+													open && " opacity-0"
+												}`}
+											></span>
+											<span
+												aria-hidden="true"
+												className={`block absolute h-0.5 w-[20px] bg-current transform transition-all duration-200 ease-in-out rounded ${
+													open ? "-rotate-45" : " translate-y-[6px]"
+												}`}
+											></span>
+										</div>
+									</Disclosure.Button>
+								</div>
+							) : null}
+							<div
+								className={cn(
+									"flex flex-1 items-center sm:items-stretch sm:justify-start",
+									user ? "justify-start ml-3 sm:ml-0" : "justify-center"
+								)}
+							>
 								<div className="flex flex-shrink-0 items-center font-serif">
 									<Link href="/">
 										<img className="h-[22px] w-auto" src="/logo.png" />
@@ -104,11 +111,7 @@ export default function Header({ user, wide = false }: { user?: any | null; wide
 										<HeaderDesktopLink title="Pricing" link="/pricing" />
 										<HeaderDesktopLink title="Contact us" link="/contact-us" />
 									</div>
-								) : (
-									<div className="hidden sm:ml-6 sm:flex sm:space-x-8">
-										<HeaderDesktopLink title="My sheets" link="/my-sheets" />
-									</div>
-								)}
+								) : null}
 							</div>
 							<div className="absolute inset-y-0 right-0 flex gap-4 items-center pr-2 sm:static sm:inset-auto sm:ml-6 sm:pr-0">
 								{user ? (
@@ -216,17 +219,7 @@ export default function Header({ user, wide = false }: { user?: any | null; wide
 										Contact us
 									</Disclosure.Button>
 								</Fragment>
-							) : (
-								<Fragment>
-									<Disclosure.Button
-										as={Link}
-										href="/my-sheets"
-										className="block border-l-4 border-transparent py-2 pl-3 pr-4 text-base font-medium text-white hover:text-gray-100"
-									>
-										My sheets
-									</Disclosure.Button>
-								</Fragment>
-							)}
+							) : null}
 							{/* Current: "bg-indigo-50 border-indigo-500 text-indigo-700", Default: "border-transparent text-gray-500 hover:bg-gray-50 hover:border-gray-300 hover:text-gray-700" */}
 						</div>
 					</Disclosure.Panel>

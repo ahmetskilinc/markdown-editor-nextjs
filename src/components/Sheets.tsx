@@ -12,7 +12,7 @@ export interface Sheet {
 	name: string;
 }
 
-const SheetCard = ({ sheet }: { sheet: Sheet }) => {
+export const SheetCard = ({ sheet }: { sheet: Sheet }) => {
 	return (
 		<li className="col-span-1 flex flex-col divide-y divide-gray-200 rounded-lg bg-white shadow">
 			<div className="flex flex-1 flex-col p-6">
@@ -48,27 +48,13 @@ const SheetCard = ({ sheet }: { sheet: Sheet }) => {
 	);
 };
 
-const NewSheet = () => (
+export const NewSheet = () => (
 	<li className="relative col-span-1 rounded-lg flex items-center justify-center group shadow p-6 overflow-hidden">
 		<Link
 			href={`/new`}
-			className="absolute inset-0 inline-flex items-center justify-center gap-x-3 rounded-br-lg border border-transparent py-4 text-md font-semibold text-gray-900 bg-white group-hover:bg-gray-100 transition-colors"
+			className="absolute inset-0 inline-flex items-center justify-center gap-x-3 rounded-br-lg border border-transparent py-4 text-sm sm:text-md font-semibold text-gray-900 bg-white group-hover:bg-gray-100 transition-colors"
 		>
 			New sheet
 		</Link>
 	</li>
 );
-
-export const Sheets = ({ sheets }: { sheets: Sheet[] }) => {
-	return (
-		<ul
-			role="list"
-			className="grid grid-cols-1 gap-6 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4"
-		>
-			{sheets.map((sheet) => (
-				<SheetCard key={sheet.id} sheet={sheet} />
-			))}
-			<NewSheet />
-		</ul>
-	);
-};
