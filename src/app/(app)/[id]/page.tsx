@@ -3,7 +3,6 @@
 import { Editor } from "@/components/Views/Editor";
 import { MarkdownViewer } from "@/components/Views/MarkdownViewer";
 import React, { useState } from "react";
-import "./styles.css";
 import { Toolbar } from "@/components/Toolbar";
 
 type Props = {};
