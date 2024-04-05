@@ -7,7 +7,6 @@ export default function manifest(): MetadataRoute.Manifest {
 		description: "An application built with Next.js",
 		start_url: "/",
 		display: "standalone",
-		display_override: ["standalone", "minimal-ui"],
 		background_color: "rgb(79,70,229)",
 		theme_color: "#ffffff",
 		id: "/",
