@@ -9,9 +9,11 @@ import { Dropzone } from "../../../Common/Dropzone";
 import ErrorText from "../../../Common/ErrorText";
 import { UserProfile } from "@/types/UserProfile";
 import { createClient } from "@/app/utils/client";
+import { User } from "@supabase/supabase-js";
 
 type Props = {
-	user: UserProfile;
+	userProfile: UserProfile;
+	user: User;
 };
 
 const EditProfileSchema = Yup.object().shape({
@@ -20,7 +22,7 @@ const EditProfileSchema = Yup.object().shape({
 	avatar: Yup.mixed().nullable(),
 });
 
-const Edit = ({ user }: Props) => {
+const Edit = ({ userProfile, user }: Props) => {
 	const supabase = createClient();
 	const [errorMsg, setErrorMsg] = useState<string | null>(null);
 	const [successMsg, setSuccessMsg] = useState<string | null>(null);
@@ -38,7 +40,7 @@ const Edit = ({ user }: Props) => {
 			const { error: avatarUploadError, data } = await supabase.storage
 				.from("avatars")
 				.upload(
-					`${user.user_id}.${formData.avatar[0].type.split("/")[1]}`,
+					`${userProfile.user_id}.${formData.avatar[0].type.split("/")[1]}`,
 					formData.avatar[0],
 					{
 						upsert: true,
@@ -58,7 +60,7 @@ const Edit = ({ user }: Props) => {
 				username: formData.username,
 				dob: formData.dob,
 			})
-			.eq("user_id", user.user_id);
+			.eq("user_id", userProfile.user_id);
 
 		if (profileUpdateError) {
 			setErrorMsg(profileUpdateError.message);
@@ -73,11 +75,11 @@ const Edit = ({ user }: Props) => {
 		<div>
 			<Formik
 				initialValues={{
-					first_name: user.first_name,
-					last_name: user.last_name,
+					first_name: userProfile.first_name || "",
+					last_name: userProfile.last_name || "",
 					avatar: [] as any,
-					dob: user.dob,
-					username: user.username,
+					dob: userProfile.dob || "",
+					username: userProfile.username || "",
 				}}
 				validationSchema={EditProfileSchema}
 				onSubmit={saveProfile}
@@ -87,6 +89,27 @@ const Edit = ({ user }: Props) => {
 						<div className="space-y-4">
 							{errorMsg && <ErrorText>{errorMsg}</ErrorText>}
 							{successMsg && <p className="text-black text-sm">{successMsg}</p>}
+							<div className="">
+								<label
+									htmlFor="avatar"
+									className="block text-sm font-medium leading-6 text-gray-900"
+								>
+									Username
+								</label>
+								<div className="mt-2">
+									<Field
+										className={cn(
+											"block w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6",
+											errors.username && touched.username && "bg-red-50"
+										)}
+										id="username"
+										name="username"
+									/>
+									{errors.username && touched.username ? (
+										<ErrorText>{errors.username}</ErrorText>
+									) : null}
+								</div>
+							</div>
 							<div className="">
 								<label
 									htmlFor="first_name"
@@ -126,27 +149,6 @@ const Edit = ({ user }: Props) => {
 									/>
 									{errors.last_name && touched.last_name ? (
 										<ErrorText>{errors.last_name}</ErrorText>
-									) : null}
-								</div>
-							</div>
-							<div className="">
-								<label
-									htmlFor="avatar"
-									className="block text-sm font-medium leading-6 text-gray-900"
-								>
-									Username
-								</label>
-								<div className="mt-2">
-									<Field
-										className={cn(
-											"block w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6",
-											errors.username && touched.username && "bg-red-50"
-										)}
-										id="username"
-										name="username"
-									/>
-									{errors.username && touched.username ? (
-										<ErrorText>{errors.username}</ErrorText>
 									) : null}
 								</div>
 							</div>

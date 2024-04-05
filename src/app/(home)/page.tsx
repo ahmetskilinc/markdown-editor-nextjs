@@ -15,7 +15,7 @@ const Page = async (props: Props) => {
 	return (
 		<main className="pt-16">
 			{user ? (
-				<div className=" mx-auto max-w-7xl p-6 lg:px-8">
+				<div className="mx-auto max-w-7xl p-6 lg:px-8">
 					<ListOfSheets />
 				</div>
 			) : (

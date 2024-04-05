@@ -4,9 +4,11 @@ import React, { useState } from "react";
 import UserProfile from "./UserProfile";
 import { cn } from "../../../app/utils/cn";
 import { UserProfile as UserProfileType } from "@/types/UserProfile";
+import { User } from "@supabase/supabase-js";
 
 type Props = {
-	user: UserProfileType;
+	userProfile: UserProfileType;
+	user: User;
 };
 
 const Tabs = ({
@@ -122,11 +124,21 @@ const Tabs = ({
 	);
 };
 
-const CurrentTab = ({ tab, user, edit }: { tab: string; user: any; edit: boolean }) => {
+const CurrentTab = ({
+	tab,
+	userProfile,
+	user,
+	edit,
+}: {
+	tab: string;
+	userProfile: UserProfileType;
+	user: User;
+	edit: boolean;
+}) => {
 	return (
 		<div className="w-full min-h-[calc(100vh-240px)] p-4 my-4 border border-gray-900/10 rounded-lg shadow">
 			{tab === "aboutyou" ? (
-				<UserProfile user={user} edit={edit} />
+				<UserProfile userProfile={userProfile} user={user} edit={edit} />
 			) : tab === "experience" ? (
 				<p>EXPERIENCE</p>
 			) : tab === "education" ? (
@@ -138,14 +150,14 @@ const CurrentTab = ({ tab, user, edit }: { tab: string; user: any; edit: boolean
 	);
 };
 
-const ProfileTabs = ({ user }: Props) => {
+const ProfileTabs = ({ userProfile, user }: Props) => {
 	const [tab, setTab] = useState<"aboutyou" | "experience" | "education" | "skills">("aboutyou");
 	const [edit, setEdit] = useState<boolean>(false);
 
 	return (
 		<div className="block sm:flex gap-4">
 			<Tabs tab={tab} setTab={setTab} edit={edit} setEdit={setEdit} />
-			<CurrentTab user={user} tab={tab} edit={edit} />
+			<CurrentTab userProfile={userProfile} user={user} tab={tab} edit={edit} />
 		</div>
 	);
 };

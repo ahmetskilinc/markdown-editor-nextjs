@@ -6,26 +6,30 @@ import View from "./View";
 import Edit from "./Edit";
 import type { UserProfile as UserProfileType } from "@/types/UserProfile";
 import { createClient } from "@/app/utils/client";
+import { User } from "@supabase/supabase-js";
 
 type Props = {
-	user: UserProfileType;
+	userProfile: UserProfileType;
 	edit: boolean;
+	user: User;
 };
 
-const UserProfile = ({ user, edit }: Props) => {
+const UserProfile = ({ userProfile, user, edit }: Props) => {
 	const [userAvatarUrl, setUserAvatarUrl] = useState<string | null>("");
 	const supabase = createClient();
 	const router = useRouter();
 
 	useEffect(() => {
 		const getUserAvatarUrl = async () => {
-			if (user && user.avatar_id) {
-				const { data } = supabase.storage.from("avatars").getPublicUrl(user.avatar_id);
+			if (userProfile && userProfile.avatar_id) {
+				const { data } = supabase.storage
+					.from("avatars")
+					.getPublicUrl(userProfile.avatar_id);
 				setUserAvatarUrl(data.publicUrl);
 			}
 		};
 
-		if (user && user.avatar_id) {
+		if (userProfile && userProfile.avatar_id) {
 			getUserAvatarUrl();
 		}
 	});
@@ -51,7 +55,11 @@ const UserProfile = ({ user, edit }: Props) => {
 		};
 	}, [supabase, router]);
 
-	return edit ? <Edit user={user} /> : <View user={user} userAvatar={userAvatarUrl} />;
+	return edit ? (
+		<Edit userProfile={userProfile} user={user} />
+	) : (
+		<View userProfile={userProfile} user={user} userAvatar={userAvatarUrl} />
+	);
 };
 
 export default UserProfile;

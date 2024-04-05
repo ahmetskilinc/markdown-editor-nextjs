@@ -104,7 +104,11 @@ export default function Header({ user, wide = false }: { user?: any | null; wide
 										<HeaderDesktopLink title="Pricing" link="/pricing" />
 										<HeaderDesktopLink title="Contact us" link="/contact-us" />
 									</div>
-								) : null}
+								) : (
+									<div className="hidden sm:ml-6 sm:flex sm:space-x-8">
+										<HeaderDesktopLink title="My sheets" link="/my-sheets" />
+									</div>
+								)}
 							</div>
 							<div className="absolute inset-y-0 right-0 flex gap-4 items-center pr-2 sm:static sm:inset-auto sm:ml-6 sm:pr-0">
 								{user ? (
@@ -151,31 +155,17 @@ export default function Header({ user, wide = false }: { user?: any | null; wide
 												<Menu.Items className="absolute right-0 z-10 mt-2.5 w-32 origin-top-right rounded-md bg-white py-2 shadow-lg ring-1 ring-gray-900/5 focus:outline-none">
 													<Menu.Item
 														as={Link}
-														href="/profile"
-														className="block px-3 py-1 text-sm leading-6 text-gray-900"
-													>
-														Profile
-													</Menu.Item>
-													<Menu.Item
-														as={Link}
-														href="/my-applications"
-														className="block px-3 py-1 text-sm leading-6 text-gray-900"
-													>
-														My applications
-													</Menu.Item>
-													<Menu.Item
-														as={Link}
-														href="/my-job-posts"
-														className="block px-3 py-1 text-sm leading-6 text-gray-900"
-													>
-														My job posts
-													</Menu.Item>
-													<Menu.Item
-														as={Link}
 														href="/account"
 														className="block px-3 py-1 text-sm leading-6 text-gray-900"
 													>
 														Account
+													</Menu.Item>
+													<Menu.Item
+														as={Link}
+														href="/settings"
+														className="block px-3 py-1 text-sm leading-6 text-gray-900"
+													>
+														Settings
 													</Menu.Item>
 													<Menu.Item
 														as="button"
@@ -202,28 +192,42 @@ export default function Header({ user, wide = false }: { user?: any | null; wide
 
 					<Disclosure.Panel className="sm:hidden">
 						<div className="space-y-2 py-2">
+							{!user ? (
+								<Fragment>
+									<Disclosure.Button
+										as={Link}
+										href="/about"
+										className="block border-l-4 border-transparent py-2 pl-3 pr-4 text-base font-medium text-white hover:text-gray-100"
+									>
+										About
+									</Disclosure.Button>
+									<Disclosure.Button
+										as={Link}
+										href="/pricing"
+										className="block border-l-4 border-transparent py-2 pl-3 pr-4 text-base font-medium text-white hover:text-gray-100"
+									>
+										Pricing
+									</Disclosure.Button>
+									<Disclosure.Button
+										as={Link}
+										href="/contact-us"
+										className="block border-l-4 border-transparent py-2 pl-3 pr-4 text-base font-medium text-white hover:text-gray-100"
+									>
+										Contact us
+									</Disclosure.Button>
+								</Fragment>
+							) : (
+								<Fragment>
+									<Disclosure.Button
+										as={Link}
+										href="/my-sheets"
+										className="block border-l-4 border-transparent py-2 pl-3 pr-4 text-base font-medium text-white hover:text-gray-100"
+									>
+										My sheets
+									</Disclosure.Button>
+								</Fragment>
+							)}
 							{/* Current: "bg-indigo-50 border-indigo-500 text-indigo-700", Default: "border-transparent text-gray-500 hover:bg-gray-50 hover:border-gray-300 hover:text-gray-700" */}
-							<Disclosure.Button
-								as={Link}
-								href="/about"
-								className="block border-l-4 border-transparent py-2 pl-3 pr-4 text-base font-medium text-white hover:text-gray-100"
-							>
-								About
-							</Disclosure.Button>
-							<Disclosure.Button
-								as={Link}
-								href="/pricing"
-								className="block border-l-4 border-transparent py-2 pl-3 pr-4 text-base font-medium text-white hover:text-gray-100"
-							>
-								Pricing
-							</Disclosure.Button>
-							<Disclosure.Button
-								as={Link}
-								href="/contact-us"
-								className="block border-l-4 border-transparent py-2 pl-3 pr-4 text-base font-medium text-white hover:text-gray-100"
-							>
-								Contact us
-							</Disclosure.Button>
 						</div>
 					</Disclosure.Panel>
 				</>
