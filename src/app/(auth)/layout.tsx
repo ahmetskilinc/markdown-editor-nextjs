@@ -1,4 +1,3 @@
-import "@/styles/globals.css";
 import PlainHeader from "../../components/Common/PlainHeader";
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
