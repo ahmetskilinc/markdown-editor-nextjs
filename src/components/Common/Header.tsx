@@ -8,8 +8,7 @@ import { Fragment, useEffect, useState } from "react";
 import HeaderDesktopLink from "./HeaderDesktopLink";
 import { cn } from "../../app/utils/cn";
 import { createClient } from "@/app/utils/client";
-import { useModal } from "@faceless-ui/modal";
-import NewSheet from "../Modals/NewSheet";
+import { useModal } from "@/providers/ModalProvider";
 
 export default function Header({ user, wide = false }: { user?: any | null; wide?: boolean }) {
 	const [userAvatarUrl, setUserAvatarUrl] = useState<string | null>("");
@@ -126,7 +125,7 @@ export default function Header({ user, wide = false }: { user?: any | null; wide
 											<button
 												className="shadow rounded-md bg-indigo-700 px-6 py-2 text-sm font-normal text-white hover:bg-indigo-600 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
 												type="button"
-												onClick={() => toggleModal("new-sheet")}
+												onClick={() => toggleModal()}
 											>
 												New sheet
 											</button>
@@ -240,7 +239,6 @@ export default function Header({ user, wide = false }: { user?: any | null; wide
 					</>
 				)}
 			</Disclosure>
-			<NewSheet />
 		</>
 	);
 }

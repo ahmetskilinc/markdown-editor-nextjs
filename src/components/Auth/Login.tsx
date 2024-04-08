@@ -6,7 +6,6 @@ import { Field, Form, Formik } from "formik";
 import Link from "next/link";
 import * as Yup from "yup";
 import ErrorText from "../Common/ErrorText";
-import { createClient } from "@/app/utils/client";
 import { signIn } from "@/app/functions/signIn";
 
 const SignInSchema = Yup.object().shape({

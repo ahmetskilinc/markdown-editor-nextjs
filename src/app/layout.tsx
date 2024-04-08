@@ -1,6 +1,5 @@
-import NewSheet from "@/components/Modals/NewSheet";
+import { ModalProvider } from "@/providers/ModalProvider";
 import "@/styles/globals.scss";
-import { ModalContainer, ModalProvider } from "@faceless-ui/modal";
 import { Metadata, Viewport } from "next";
 
 export const metadata: Metadata = {
@@ -195,10 +194,7 @@ export default async function RootLayout({ children }: { children: React.ReactNo
 				/>
 			</head>
 			<body style={{ WebkitTapHighlightColor: "transparent" }}>
-				<ModalProvider transTime={250}>
-					{children}
-					<ModalContainer />
-				</ModalProvider>
+				<ModalProvider>{children}</ModalProvider>
 			</body>
 		</html>
 	);
