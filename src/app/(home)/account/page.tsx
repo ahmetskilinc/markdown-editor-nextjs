@@ -1,6 +1,6 @@
 import { createClient } from "@/app/utils/server";
 import ProfileTabs from "@/components/User/Profile/ProfileTabs";
-import { UserProfile } from "@/types/UserProfile";
+import type { Database } from "@/types/supabase.types";
 import { redirect } from "next/navigation";
 import React from "react";
 
@@ -14,7 +14,7 @@ const Page = async () => {
 	if (!user) redirect("/sign-in");
 
 	const { data, error } = await supabase.from("users").select("*").match({ user_id: user.id });
-	const userProfile: UserProfile = data![0];
+	const userProfile: Database["public"]["Tables"]["users"]["Row"] = data![0];
 
 	return (
 		<main className="pt-16">

@@ -4,12 +4,12 @@ import { useRouter } from "next/navigation";
 import { useEffect, useState } from "react";
 import View from "./View";
 import Edit from "./Edit";
-import type { UserProfile as UserProfileType } from "@/types/UserProfile";
 import { createClient } from "@/app/utils/client";
 import { User } from "@supabase/supabase-js";
+import type { Database } from "@/types/supabase.types";
 
 type Props = {
-	userProfile: UserProfileType;
+	userProfile: Database["public"]["Tables"]["users"]["Row"];
 	edit: boolean;
 	user: User;
 };

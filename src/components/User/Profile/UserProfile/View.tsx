@@ -1,10 +1,10 @@
 import { User } from "@supabase/supabase-js";
-import { UserProfile } from "../../../../types/UserProfile";
 import moment from "moment";
 import React from "react";
+import type { Database } from "@/types/supabase.types";
 
 type Props = {
-	userProfile: UserProfile;
+	userProfile: Database["public"]["Tables"]["users"]["Row"];
 	user: User;
 	userAvatar?: string | null;
 };
@@ -48,7 +48,7 @@ const View = ({ userProfile, userAvatar, user }: Props) => {
 				<div className="px-4 py-6 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
 					<dt className="text-sm font-medium leading-6 text-gray-900">Date of birth</dt>
 					<dd className="mt-1 text-sm leading-6 text-gray-700 sm:col-span-2 sm:mt-0">
-						{getDate(userProfile.dob)} ({getAge(userProfile.dob)} years old)
+						{getDate(userProfile.dob || "")} ({getAge(userProfile.dob || "")} years old)
 					</dd>
 				</div>
 			</dl>

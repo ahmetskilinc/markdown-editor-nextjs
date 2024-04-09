@@ -3,11 +3,11 @@
 import React, { useState } from "react";
 import UserProfile from "./UserProfile";
 import { cn } from "../../../app/utils/cn";
-import { UserProfile as UserProfileType } from "@/types/UserProfile";
 import { User } from "@supabase/supabase-js";
+import type { Database } from "@/types/supabase.types";
 
 type Props = {
-	userProfile: UserProfileType;
+	userProfile: Database["public"]["Tables"]["users"]["Row"];
 	user: User;
 };
 
@@ -131,7 +131,7 @@ const CurrentTab = ({
 	edit,
 }: {
 	tab: string;
-	userProfile: UserProfileType;
+	userProfile: Database["public"]["Tables"]["users"]["Row"];
 	user: User;
 	edit: boolean;
 }) => {

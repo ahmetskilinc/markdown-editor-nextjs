@@ -7,12 +7,12 @@ import { MoonLoader } from "react-spinners";
 import * as Yup from "yup";
 import { Dropzone } from "../../../Common/Dropzone";
 import ErrorText from "../../../Common/ErrorText";
-import { UserProfile } from "@/types/UserProfile";
 import { createClient } from "@/app/utils/client";
 import { User } from "@supabase/supabase-js";
+import type { Database } from "@/types/supabase.types";
 
 type Props = {
-	userProfile: UserProfile;
+	userProfile: Database["public"]["Tables"]["users"]["Row"];
 	user: User;
 };
 
@@ -60,7 +60,7 @@ const Edit = ({ userProfile, user }: Props) => {
 				username: formData.username,
 				dob: formData.dob,
 			})
-			.eq("user_id", userProfile.user_id);
+			.eq("user_id", userProfile.user_id || "");
 
 		if (profileUpdateError) {
 			setErrorMsg(profileUpdateError.message);

@@ -60,7 +60,9 @@ export default function MyModal() {
 										onSubmit={async (formData) => {
 											await newSheet(formData).then((data) => {
 												toggleModal();
-												router.push(`/${data.id}`);
+												router.push(
+													`/${typeof data !== "string" ? data.id : null}`
+												);
 											});
 										}}
 									>
