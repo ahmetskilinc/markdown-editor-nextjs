@@ -162,7 +162,8 @@ export const Toolbar = ({ saved }: { saved: boolean }) => {
 						</svg>
 					</button>
 				</span>
-
+			</div>
+			<div className="p-2 border-b-2 flex gap-2 m-0">
 				<span
 					className={cn(
 						"relative -ml-px inline-flex items-center rounded-md bg-white px-3 py-2 text-sm font-semibold gap-2 whitespace-nowrap",
@@ -199,23 +200,19 @@ export const Toolbar = ({ saved }: { saved: boolean }) => {
 						</Fragment>
 					)}
 				</span>
-			</div>
-			<div className="p-2 border-b-2 gap-2 m-0">
-				<Menu as="div" className="relative">
-					<Menu.Button className="isolate inline-flex rounded-md shadow-sm">
+				<Menu as="span" className="relative isolate inline-flex rounded-md shadow-sm">
+					<Menu.Button className="relative -ml-px inline-flex items-center rounded-md bg-white px-3 py-2 text-sm font-semibold text-gray-900 ring-1 ring-inset ring-gray-300 hover:bg-gray-50 focus:z-10">
 						<span className="sr-only">Open sheet menu</span>
-						<span className="relative inline-flex items-center rounded-md bg-white px-3 py-2 text-sm font-semibold text-gray-900 ring-1 ring-inset ring-gray-300 hover:bg-gray-50 focus:z-10">
-							<svg
-								className="h-4 w-4"
-								xmlns="http://www.w3.org/2000/svg"
-								viewBox="0 0 128 512"
-							>
-								<path
-									d="M64 360a56 56 0 1 0 0 112 56 56 0 1 0 0-112zm0-160a56 56 0 1 0 0 112 56 56 0 1 0 0-112zM120 96A56 56 0 1 0 8 96a56 56 0 1 0 112 0z"
-									fill="currentColor"
-								/>
-							</svg>
-						</span>
+						<svg
+							className="h-4 w-4"
+							xmlns="http://www.w3.org/2000/svg"
+							viewBox="0 0 128 512"
+						>
+							<path
+								d="M64 360a56 56 0 1 0 0 112 56 56 0 1 0 0-112zm0-160a56 56 0 1 0 0 112 56 56 0 1 0 0-112zM120 96A56 56 0 1 0 8 96a56 56 0 1 0 112 0z"
+								fill="currentColor"
+							/>
+						</svg>
 					</Menu.Button>
 					<Transition
 						as={Fragment}
