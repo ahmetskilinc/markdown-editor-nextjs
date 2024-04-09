@@ -4,7 +4,6 @@ import { Metadata, Viewport } from "next";
 
 export const metadata: Metadata = {
 	title: "Markdown",
-	description: "Markdown app with Next.js",
 };
 
 export const viewport: Viewport = {
