@@ -165,7 +165,7 @@ export const Toolbar = ({ saved }: { saved: boolean }) => {
 
 				<span
 					className={cn(
-						"relative -ml-px inline-flex items-center rounded-md bg-white px-3 py-2 text-sm font-semibold gap-2",
+						"relative -ml-px inline-flex items-center rounded-md bg-white px-3 py-2 text-sm font-semibold gap-2 whitespace-nowrap",
 						saved ? "text-green-700" : "text-red-600"
 					)}
 				>
