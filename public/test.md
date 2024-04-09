@@ -1,0 +1,973 @@
+-   **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.- **Description:** Build a strong foundation for your business with a custom website designed for your target audience and goals.
+-   **Price:** £2000+
+-   **Timeline:** 4 - 6 weeks
+-   **What's Included:**
+    -   Initial Consultation
+    -   Custom Proposal
+    -   Competitor Research & Strategy
+    -   Full Site Design (Structure, Navigation, Features)
+    -   Build on the Platform of Choice
+-   **Target Audience:** Startups and small businesses needing a more bespoke website.
+-   **Other considerations:**
+    -   **Consultation Depth:** Make the initial consultation the cornerstone of this tier. Go beyond just surface-level needs and dig deeper into the client's business model, ideal customers, and long-term vision.
+    -   **Competitive Analysis:** Include a more thorough competitor analysis. This helps differentiate your client's website and uncover market opportunities.
+    -   **Content Strategy Guidance:** While not a full content creation service, provide basic content strategy outlining what type of content should go on each page to maximise its purpose.
+    -   **Functionality:** Offer a selected range of custom feature add-ons to this tier.
+    -   **Launch Support:** Include a period of post-launch support.
+    -   **Iterative Mindset Emphasis:** Market this as a strategic investment. Explain how data-driven revisions after launch can help their website continually evolve with their growing business
+    -   **Pricing Structure:** Consider offering a base price with optional add-ons instead of lump-sum pricing.
+    -   **Tech Stack:** Be clear about your specialized platforms for greater focus.

@@ -1,35 +1,44 @@
 "use client";
 
-import NewSheet from "@/components/Modals/NewSheet";
+import DeleteSheetModal from "@/components/Modals/DeleteSheet";
+import NewSheetModal from "@/components/Modals/NewSheet";
 import React, { createContext, useContext, useState } from "react";
 type ModalContextType = {
-	toggleModal: () => void;
-	isOpen: boolean;
+	openModal: (modalSlug: string) => void;
+	closeModal: () => void;
+	currentModal: string | null;
 };
 
 const ModalContext = createContext<ModalContextType>({
-	toggleModal: () => {},
-	isOpen: false,
+	openModal: () => {},
+	closeModal: () => {},
+	currentModal: null,
 });
 
 export const ModalProvider: React.FC<{
 	children: React.ReactNode;
 }> = ({ children }) => {
-	const [isOpen, setIsOpen] = useState<boolean>(false);
+	const [currentModal, setCurrentModal] = useState<string | null>(null);
 
-	const toggleModal = () => {
-		setIsOpen(!isOpen);
+	const closeModal = () => {
+		setCurrentModal(null);
+	};
+
+	const openModal = (modalSlug: string) => {
+		setCurrentModal(modalSlug);
 	};
 
 	return (
 		<ModalContext.Provider
 			value={{
-				toggleModal,
-				isOpen,
+				openModal,
+				closeModal,
+				currentModal,
 			}}
 		>
 			{children}
-			<NewSheet />
+			<NewSheetModal />
+			<DeleteSheetModal />
 		</ModalContext.Provider>
 	);
 };

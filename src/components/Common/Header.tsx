@@ -14,7 +14,7 @@ export default function Header({ user, wide = false }: { user?: any | null; wide
 	const [userAvatarUrl, setUserAvatarUrl] = useState<string | null>("");
 	const supabase = createClient();
 	const router = useRouter();
-	const { toggleModal } = useModal();
+	const { openModal } = useModal();
 
 	useEffect(() => {
 		const channel = supabase
@@ -125,7 +125,7 @@ export default function Header({ user, wide = false }: { user?: any | null; wide
 											<button
 												className="shadow rounded-md bg-indigo-700 px-6 py-2 text-sm font-normal text-white hover:bg-indigo-600 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
 												type="button"
-												onClick={() => toggleModal()}
+												onClick={() => openModal("new-sheet")}
 											>
 												New sheet
 											</button>
@@ -176,13 +176,13 @@ export default function Header({ user, wide = false }: { user?: any | null; wide
 														>
 															Account
 														</Menu.Item>
-														<Menu.Item
+														{/* <Menu.Item
 															as={Link}
 															href="/settings"
 															className="block px-3 py-1 text-sm leading-6 text-gray-900"
 														>
 															Settings
-														</Menu.Item>
+														</Menu.Item> */}
 														<Menu.Item
 															as="button"
 															onClick={handleSignOut}

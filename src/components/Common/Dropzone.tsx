@@ -3,7 +3,7 @@ import { cn } from "../../app/utils/cn";
 import { FormikErrors, FormikTouched, FormikValues } from "formik";
 import { Accept, DropEvent, useDropzone } from "react-dropzone";
 import ErrorText from "./ErrorText";
-import React from "react";
+import React, { Fragment } from "react";
 
 export const Dropzone = ({
 	setFieldValue,
@@ -62,8 +62,8 @@ export const Dropzone = ({
 		);
 	};
 	return (
-		<div>
-			<div {...getRootProps({ className: "dropzone" })}>
+		<div className="md:inline-flex md:w-full gap-2">
+			<div {...getRootProps({ className: "dropzone" })} className="w-full grow mb-2 md:mb-0">
 				<ul
 					role="list"
 					className={cn(
@@ -113,25 +113,50 @@ export const Dropzone = ({
 							</div>
 						</li>
 					) : values[name] ? (
-						values[name].map((file: File) => (
-							<li
-								key={file.name}
-								className="flex items-center justify-between py-4 pl-4 pr-5 text-sm leading-6"
-							>
-								<div className="flex w-0 flex-1 items-center">
-									<Icon />
-									<div className="ml-4 flex min-w-0 flex-1 gap-2">
-										<span className="truncate font-medium">{file.name}</span>
-										<span className="flex-shrink-0 text-gray-400">
-											{(file.size / 1e6).toFixed(2)}MB
-										</span>
-									</div>
-								</div>
-							</li>
-						))
+						<Fragment>
+							{values[name].map((file: File) => {
+								console.log(file.size);
+								return (
+									<li
+										key={file.name}
+										className="flex items-center justify-between py-4 pl-4 pr-5 text-sm leading-6"
+									>
+										<div className="flex w-0 flex-1 items-center">
+											<Icon />
+											<div className="ml-4 flex min-w-0 flex-1 gap-2">
+												<span className="truncate font-medium">
+													{file.name}
+												</span>
+												<span className="flex-shrink-0 text-gray-400">
+													{(file.size / 1e3).toFixed(2)}KB
+												</span>
+											</div>
+										</div>
+									</li>
+								);
+							})}
+						</Fragment>
 					) : null}
 				</ul>
 			</div>
+			{values[name].length > 0 ? (
+				<div className="gap-2 shrink inline-flex w-full md:w-[unset]">
+					<button
+						className="shadow rounded-md bg-blue-600 px-12 py-2 text-sm font-normal text-white hover:bg-blue-700 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600 w-full md:w-[unset]"
+						type="button"
+						// onClick={closeModal}
+					>
+						Open
+					</button>
+					<button
+						className="shadow rounded-md bg-green-600 px-12 py-2 text-sm font-normal text-white hover:bg-green-700 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600 w-full md:w-[unset]"
+						type="button"
+						onClick={() => setFieldValue(name, [])}
+					>
+						Clear
+					</button>
+				</div>
+			) : null}
 			{errors[name] && touched[name] ? <ErrorText>{errors[name] as string}</ErrorText> : null}
 		</div>
 	);

@@ -4,31 +4,20 @@ import React, { useState, useRef, useEffect } from "react";
 import { createClient } from "@/app/utils/client";
 
 export const Editor = ({
-	setMarkdown,
 	markdown,
+	handleChange,
 }: {
-	setMarkdown: React.Dispatch<React.SetStateAction<string>>;
 	markdown: string;
+	handleChange: (e: string) => void;
 }) => {
 	const supabase = createClient();
 	const [hidden, setHidden] = useState(false);
 	const textArea = useRef<HTMLTextAreaElement>(null);
 
-	useEffect(() => {
-		const id = window.location.pathname.split("/")[1];
-		async function getSheets() {
-			const data = await supabase.from("sheets").select("*").eq("id", id);
-
-			setMarkdown(data?.data?.[0].content || "");
-		}
-
-		getSheets();
-	}, []);
-
-	const handleToggleEditor = () => {
-		if (!hidden) setMarkdown(`${textArea.current?.value}`);
-		setHidden(!hidden);
-	};
+	// const handleToggleEditor = () => {
+	// 	if (!hidden) setMarkdown(`${textArea.current?.value}`);
+	// 	setHidden(!hidden);
+	// };
 
 	const getTextToInsert = (
 		type: "bold" | "italic" | "strikethrough" | "checkbox",
@@ -59,7 +48,7 @@ export const Editor = ({
 			type,
 			getSelText(start, finish)!
 		)}${textAfterCursorPosition}`;
-		setMarkdown(newValue);
+		// setMarkdown(newValue);
 	};
 
 	function getSelText(start?: number, finish?: number) {
@@ -72,7 +61,7 @@ export const Editor = ({
 				ref={textArea}
 				className="p-6 m-0 h-full w-full outline-none border-none ring-none shadow-none focus:outline-none focus:border-none focus:ring-none focus:shadow-none"
 				placeholder="Start here..."
-				onChange={(e) => setMarkdown(e.target.value)}
+				onChange={(e) => handleChange(e.target.value)}
 				value={markdown || ""}
 			/>
 		</div>

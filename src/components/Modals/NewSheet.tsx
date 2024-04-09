@@ -14,13 +14,14 @@ const SignInSchema = Yup.object().shape({
 	fileName: Yup.string().required("A name is required to create a file."),
 });
 
-export default function MyModal() {
+const NewSheetModal = () => {
+	const modalSlug = "new-sheet";
 	const router = useRouter();
-	const { isOpen, toggleModal } = useModal();
+	const { currentModal, closeModal } = useModal();
 
 	return (
-		<Transition appear show={isOpen} as={Fragment}>
-			<Dialog as="div" className="relative z-10" onClose={toggleModal}>
+		<Transition appear show={currentModal === modalSlug} as={Fragment}>
+			<Dialog as="div" className="relative z-10" onClose={closeModal}>
 				<Transition.Child
 					as={Fragment}
 					enter="ease-out duration-300"
@@ -59,7 +60,7 @@ export default function MyModal() {
 										validationSchema={SignInSchema}
 										onSubmit={async (formData) => {
 											await newSheet(formData).then((data) => {
-												toggleModal();
+												closeModal();
 												router.push(
 													`/${typeof data !== "string" ? data.id : null}`
 												);
@@ -116,4 +117,6 @@ export default function MyModal() {
 			</Dialog>
 		</Transition>
 	);
-}
+};
+
+export default NewSheetModal;
