@@ -1,4 +1,3 @@
-import Header from "@/components/Common/Header";
 import { createClient } from "@/app/utils/server";
 import PlainHeader from "@/components/Common/PlainHeader";
 
@@ -18,7 +17,7 @@ export default async function RootLayout({ children }: { children: React.ReactNo
 
 	return (
 		<>
-			<Header user={data ? data[0] : undefined} userSignedIn={!!user} />
+			<PlainHeader />
 			{children}
 		</>
 	);

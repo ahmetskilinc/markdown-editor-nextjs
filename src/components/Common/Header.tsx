@@ -10,7 +10,15 @@ import { cn } from "../../app/utils/cn";
 import { createClient } from "@/app/utils/client";
 import { useModal } from "@/providers/ModalProvider";
 
-export default function Header({ user, wide = false }: { user?: any | null; wide?: boolean }) {
+export default function Header({
+	user,
+	userSignedIn,
+	wide = false,
+}: {
+	user?: any | null;
+	userSignedIn: boolean;
+	wide?: boolean;
+}) {
 	const [userAvatarUrl, setUserAvatarUrl] = useState<string | null>("");
 	const supabase = createClient();
 	const router = useRouter();
@@ -49,13 +57,20 @@ export default function Header({ user, wide = false }: { user?: any | null; wide
 		}
 	});
 
-	async function handleSignOut() {
-		const { error } = await supabase.auth.signOut();
-
-		if (error) {
-			console.error("ERROR:", error);
-		}
+	function handleSignOut() {
+		supabase.auth
+			.signOut()
+			.then(() => {
+				router.refresh();
+			})
+			.catch((error) => {
+				console.error(error);
+			});
 	}
+
+	if (userSignedIn && !user) router.push("/onboarding-from-provider");
+
+	// console.log(user);
 
 	return (
 		<>

@@ -7,7 +7,7 @@ export default function PlainHeader() {
 				<div className="relative flex h-16 justify-center">
 					<div className="flex flex-shrink-0 items-center font-serif">
 						<Link href="/">
-							<img className="h-5 w-auto" src="/logo.png" alt="" />
+							<img className="h-[22px] w-auto" src="/logo.png" alt="" />
 						</Link>
 					</div>
 				</div>

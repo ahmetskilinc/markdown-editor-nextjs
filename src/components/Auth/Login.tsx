@@ -8,13 +8,38 @@ import * as Yup from "yup";
 import ErrorText from "../Common/ErrorText";
 import { signIn } from "@/app/functions/signIn";
 
+import { createClient } from "../../app/utils/client";
+import { useRouter } from "next/navigation";
+
 const SignInSchema = Yup.object().shape({
 	email: Yup.string().email("Invalid email").required("Email is required"),
 	password: Yup.string().required("Password is required"),
 });
 
 const Login = () => {
+	const router = useRouter();
+	const supabase = createClient();
 	const [errorMsg, setErrorMsg] = useState<string | null>(null);
+
+	function signInWithGithub() {
+		supabase.auth
+			.signInWithOAuth({
+				provider: "github",
+			})
+			.then(() => {
+				router.refresh();
+			});
+	}
+
+	function signInWithGoogle() {
+		supabase.auth
+			.signInWithOAuth({
+				provider: "google",
+			})
+			.then(() => {
+				router.refresh();
+			});
+	}
 
 	return (
 		<div className="space-y-12 p-6 w-full">
@@ -105,12 +130,14 @@ const Login = () => {
 									<button
 										className="w-full shadow rounded-md bg-white px-6 py-2 text-sm font-normal text-black hover:bg-neutral-100 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
 										type="button"
+										onClick={() => signInWithGoogle()}
 									>
 										Sign in with Google
 									</button>
 									<button
 										className="w-full shadow rounded-md bg-black px-6 py-2 text-sm font-normal text-white hover:bg-neutral-800 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
 										type="button"
+										onClick={() => signInWithGithub()}
 									>
 										Sign in with Github
 									</button>
