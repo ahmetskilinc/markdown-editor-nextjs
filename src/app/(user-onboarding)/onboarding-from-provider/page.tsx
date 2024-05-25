@@ -1,9 +1,7 @@
 import React from "react";
 
-type Props = {};
-
-const Page = (props: Props) => {
-	return <main className="pt-16">Lets get your ready!</main>;
+const Page = () => {
+	return <main className="pt-16">Lets get you ready!</main>;
 };
 
 export default Page;

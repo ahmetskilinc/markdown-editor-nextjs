@@ -17,7 +17,7 @@ export const Dropzone = ({
 }: {
 	setFieldValue: (
 		field: string,
-		value: any,
+		value: File[],
 		shouldValidate?: boolean | undefined
 	) => Promise<void | FormikErrors<{}>>;
 	setFieldError: (field: string, message: string | undefined) => void;
@@ -103,9 +103,7 @@ export const Dropzone = ({
 												<span className="hidden sm:block">
 													Drag a file here or click to select one
 												</span>
-												<span className="block sm:hidden">
-													Tap to select a file
-												</span>
+												<span className="block sm:hidden">Tap to select a file</span>
 											</React.Fragment>
 										)}
 									</span>
@@ -124,9 +122,7 @@ export const Dropzone = ({
 										<div className="flex w-0 flex-1 items-center">
 											<Icon />
 											<div className="ml-4 flex min-w-0 flex-1 gap-2">
-												<span className="truncate font-medium">
-													{file.name}
-												</span>
+												<span className="truncate font-medium">{file.name}</span>
 												<span className="flex-shrink-0 text-gray-400">
 													{(file.size / 1e3).toFixed(2)}KB
 												</span>

@@ -78,7 +78,11 @@ const SignUp = () => {
 						<Form className="space-y-8">
 							<div className="space-y-4">
 								{errorMsg && <ErrorText>{errorMsg}</ErrorText>}
-								{successMsg && <p className="text-black">{successMsg}</p>}
+								{successMsg && (
+									<p className="text-black text-sm px-3 py-2 border border-green-600 bg-green-300 rounded-lg">
+										{successMsg}
+									</p>
+								)}
 
 								<div className="flex gap-4">
 									<div>
@@ -193,9 +197,7 @@ const SignUp = () => {
 											placeholder="Email address"
 											type="email"
 										/>
-										{errors.email && touched.email ? (
-											<ErrorText>{errors.email}</ErrorText>
-										) : null}
+										{errors.email && touched.email ? <ErrorText>{errors.email}</ErrorText> : null}
 									</div>
 								</div>
 
@@ -234,9 +236,7 @@ const SignUp = () => {
 										<Field
 											className={cn(
 												"block w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6",
-												errors.passwordConfirm &&
-													touched.passwordConfirm &&
-													"bg-red-50"
+												errors.passwordConfirm && touched.passwordConfirm && "bg-red-50"
 											)}
 											placeholder="Confirm password"
 											id="passwordConfirm"

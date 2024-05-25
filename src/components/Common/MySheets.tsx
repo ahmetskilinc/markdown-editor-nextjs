@@ -29,7 +29,9 @@ const MySheets = async () => {
 		</div>
 	) : (
 		<div>
-			<p>No sheets</p>
+			<p className="w-full border border-black/30 bg-black/5 rounded-lg h-44 flex items-center justify-center">
+				You have no sheets saved.
+			</p>
 		</div>
 	);
 };
