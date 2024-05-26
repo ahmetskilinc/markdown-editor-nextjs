@@ -37,9 +37,9 @@ const Page: React.FC<{ params: { id: string } }> = ({ params: { id } }) => {
 	return (
 		<main className="pt-16">
 			<Toolbar saved={saved} />
-			<div className="grid grid-cols-1 grid-rows-2 md:grid-cols-2 md:grid-rows-1 m-0 p-0 divide-y-2 md:divide-x-2 h-[calc(100vh-(80px+56px))]">
+			<div className="grid grid-cols-1 grid-rows-2 md:grid-cols-2 md:grid-rows-1 m-0 p-0 divide-y-2 divide-x-0 md:divide-y-0 md:divide-x-2 h-[calc(100vh-(80px+56px))]">
 				<Editor markdown={markdown} handleChange={handleInputChange} />
-				<MarkdownViewer lineNumbers={true} content={markdown} />
+				<MarkdownViewer lineNumbers={true} markdown={markdown} />
 			</div>
 		</main>
 	);

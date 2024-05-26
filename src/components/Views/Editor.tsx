@@ -59,7 +59,7 @@ export const Editor = ({
 		<div className="h-full m-0 p-0">
 			<textarea
 				ref={textArea}
-				className="p-6 m-0 h-full w-full outline-none border-none ring-none shadow-none focus:outline-none focus:border-none focus:ring-none focus:shadow-none"
+				className="p-6 m-0 h-full w-full outline-none border-none ring-none shadow-none focus:outline-none focus:border-none focus:ring-none focus:shadow-none resize-none overflow-x-scroll font-mono"
 				placeholder="Start here..."
 				onChange={(e) => handleChange(e.target.value)}
 				value={markdown || ""}

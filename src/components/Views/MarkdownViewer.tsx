@@ -4,14 +4,17 @@ import ReactMarkdown, { Components } from "react-markdown";
 import { Prism as SyntaxHighlighter } from "react-syntax-highlighter";
 import { materialLight } from "react-syntax-highlighter/dist/esm/styles/prism";
 import rehypeRaw from "rehype-raw";
+import matter from "gray-matter";
 
 export const MarkdownViewer = ({
-	content,
+	markdown,
 	lineNumbers,
 }: {
-	content: string;
+	markdown: string;
 	lineNumbers: boolean;
 }) => {
+	const { data, content } = matter(markdown);
+
 	const components: Partial<Components> = {
 		code: (props: any) => {
 			const { children, className, node, ...rest } = props;
